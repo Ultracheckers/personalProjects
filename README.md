@@ -1,2 +1,2 @@
 # personalProjects
-Repository for my personal projects
+Hello I'm Nathan and these are just some personal projects.
